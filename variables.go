@@ -4,7 +4,7 @@ import "fmt"
 
 func main()  {
 	var name string = "Malcom Otieno Adriam"
-	age := 21
+	age := 24
 	var is_new bool = true
 	var pi float64 = 3.14
 
